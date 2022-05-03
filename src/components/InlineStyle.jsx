@@ -9,7 +9,7 @@ export const InlineStyle = () => {
     alignItems: "center"
   };
   const titleStyle = {
-    margin: "0",
+    margin: 0,
     color: "#3d84a8"
   };
   const buttonStyle = {
